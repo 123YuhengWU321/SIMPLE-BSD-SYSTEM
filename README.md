@@ -1,6 +1,6 @@
 # SIMPLE-BSD-SYSTEM
 Teaching based BSD design, the system used is OS161 </br>
-Only included the kernel file as reference </br>
+Only included the kernel file as reference, please do not copy the implementation if you are currently working with OS161, for your own benefit</br>
 
 ## Highlight1 - Synchronization
 Muti_threaded algorithm at kern0.1, important file which contains the implementation of the alogorithm is placed at kern0.1/synchprobs/airballoon.c</br>
