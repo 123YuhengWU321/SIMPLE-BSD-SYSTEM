@@ -1,6 +1,6 @@
 # SIMPLE-BSD-SYSTEM
 Teaching based BSD design, the system used is OS161 </br>
-Only included the kenr file as reference </br>
+Only included the kernel file as reference </br>
 
 
 Muti_threaded algorithm at commit: </br>
