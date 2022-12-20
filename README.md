@@ -17,4 +17,6 @@ Refer to https://sites.google.com/view/cpen331fall2022/assignments/assignment-5?
 Refer to https://people.ece.ubc.ca/~os161/man/ for what each syscall does </br>
 
 ## Highlight4 - Paging and Memory Management:
-Will be added soon
+Simple VM that replaces the old "dumbvm" design is in kern0.4/arch/mips/vm/dumbvm.c</br>
+Refer to https://sites.google.com/view/cpen331fall2022/assignments/assignment-6?authuser=0 for detailed explanantions </br>
+
